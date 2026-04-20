@@ -9,6 +9,10 @@
             background: #050505; color: #ffffff; font-family: 'Inter', sans-serif;
             overflow: hidden; display: flex; flex-direction: column; justify-content: center; position: relative; box-sizing: border-box;
         }
+        .background {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background-image: url('../images/bg-znth.png'); background-size: cover; background-position: center; opacity: 0.3; z-index: 1;
+        }
         .logo { position: absolute; top: 60px; right: 60px; height: 40px; z-index: 10; }
         h2 { font-size: 64px; font-weight: 900; line-height: 1.2; margin-bottom: 60px; color: #ffffff; z-index: 5; position: relative; }
         .highlight { color: #00D1FF; }
@@ -16,8 +20,9 @@
     </style>
 </head>
 <body>
-    <img src="../../assets/logo-horizontal.png" class="logo">
+    <div class="background"></div>
+    <img src="../../../assets/logo-horizontal.png" class="logo">
     <h2>O Segredo: <span class="highlight">Automação Direcionada</span></h2>
-    <div class="text">Segundo recente artigo da Exame, o truque é criar comandos robustos e estruturados. Ao delimitar o formato, regras e as estruturas que a IA deve respeitar, você atinge o modelo 80/20 em segundos.</div>
+    <div class="text">A reportagem da <i>Exame</i> revela que o truque é criar comandos robustos e estruturados. Ao delimitar o formato, regras e contexto, a IA atinge os tão esperados 80% do resultado em segundos.</div>
 </body>
 </html>
