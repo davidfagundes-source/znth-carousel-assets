@@ -1,0 +1,25 @@
+{
+  "status": "draft_for_review",
+  "date": "2026-07-16",
+  "topic": "Proposta comercial manual vs pipeline de IA — v3 revisada sem sobreposição",
+  "format": "carousel",
+  "local_folder": "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed",
+  "caption_path": "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/caption.txt",
+  "image_paths": [
+    "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-01.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-02.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-03.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-04.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-05.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-06.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-07.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-08.png"
+  ],
+  "story_image_paths": [],
+  "published": false,
+  "publication_paused": true,
+  "github_repo": "davidfagundes-source/znth-carousel-assets",
+  "github_prefix": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed",
+  "notes": "Versão para análise; corrigida para evitar sobreposição e usar repo correto znth-carousel-assets.",
+  "zip_path": "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed.zip"
+}
