@@ -21,5 +21,153 @@
   "github_repo": "davidfagundes-source/znth-carousel-assets",
   "github_prefix": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed",
   "notes": "Versão para análise; corrigida para evitar sobreposição e usar repo correto znth-carousel-assets.",
-  "zip_path": "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed.zip"
+  "zip_path": "/opt/data/znth-instagram-squad/output/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed.zip",
+  "github_raw_base": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed",
+  "github_uploads": [
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-01.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-01.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-01.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-02.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-02.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-02.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-03.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-03.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-03.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-04.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-04.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-04.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-05.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-05.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-05.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-06.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-06.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-06.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-07.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-07.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-07.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-08.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-08.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/images/slide-08.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/cinematic-01.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/cinematic-01.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/cinematic-01.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/cinematic-02.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/cinematic-02.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/cinematic-02.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/cinematic-03.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/cinematic-03.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/cinematic-03.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/logo-horizontal.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/logo-horizontal.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/logo-horizontal.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_01.jpg",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_01.jpg",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_01.jpg"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_02.jpg",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_02.jpg",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_02.jpg"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_03.jpg",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_03.jpg",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_03.jpg"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_04.jpg",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_04.jpg",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/assets/pexels/pexels_bg_04.jpg"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/caption.txt",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/caption.txt",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/caption.txt"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/ready-to-post.json",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/ready-to-post.json",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/ready-to-post.json"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/review-report.md",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/review-report.md",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/review-report.md"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/research-briefing.md",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/research-briefing.md",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/research-briefing.md"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/instagram-feed-draft.md",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/instagram-feed-draft.md",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/instagram-feed-draft.md"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/visual-direction.md",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/visual-direction.md",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/visual-direction.md"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/publication-status.md",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/publication-status.md",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/publication-status.md"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/contact-sheet-v3.png",
+      "status": "uploaded",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/contact-sheet-v3.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-16-proposta-comercial-pipeline-ia-v3-reviewed/contact-sheet-v3.png"
+    }
+  ],
+  "review_status": "APPROVE"
 }
