@@ -1,0 +1,288 @@
+{
+  "format": "carousel",
+  "slides": 8,
+  "images": [
+    "/opt/data/znth-instagram-squad/output/2026-07-17-propostas-enxutas-pme-diana/images/slide-01.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-17-propostas-enxutas-pme-diana/images/slide-02.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-17-propostas-enxutas-pme-diana/images/slide-03.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-17-propostas-enxutas-pme-diana/images/slide-04.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-17-propostas-enxutas-pme-diana/images/slide-05.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-17-propostas-enxutas-pme-diana/images/slide-06.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-17-propostas-enxutas-pme-diana/images/slide-07.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-17-propostas-enxutas-pme-diana/images/slide-08.png"
+  ],
+  "contact_sheet": "/opt/data/znth-instagram-squad/output/2026-07-17-propostas-enxutas-pme-diana/contact-sheet.png",
+  "published": false,
+  "status": "ready_for_review",
+  "drive_folder": "1d4ROjUHL0wUZUlxDLEa3iKk-YAI4fqt7",
+  "drive_folder_url": "https://drive.google.com/drive/folders/1d4ROjUHL0wUZUlxDLEa3iKk-YAI4fqt7",
+  "drive_files_count": 38,
+  "drive_zip_file": {
+    "id": "1-g1qmpBUCFe8hfsQMlNiVck8fxTqUnCQ",
+    "name": "2026-07-17-propostas-enxutas-pme-diana-final-v2-sem-automacao-cognitiva.zip",
+    "mimeType": "application/zip",
+    "webViewLink": "https://drive.google.com/file/d/1-g1qmpBUCFe8hfsQMlNiVck8fxTqUnCQ/view?usp=drivesdk",
+    "size": "11672359"
+  },
+  "drive_uploaded_files": [
+    {
+      "id": "1JPw7uvBCuVVK5_GMpQbubBWzLOSGmTqy",
+      "name": "logo-horizontal.png",
+      "mimeType": "image/png",
+      "webViewLink": "https://drive.google.com/file/d/1JPw7uvBCuVVK5_GMpQbubBWzLOSGmTqy/view?usp=drivesdk",
+      "size": "134980"
+    },
+    {
+      "id": "1kdldI6rDSzC4biQc58H_OVw9VJamuGLY",
+      "name": "photo-01.jpg",
+      "mimeType": "image/jpeg",
+      "webViewLink": "https://drive.google.com/file/d/1kdldI6rDSzC4biQc58H_OVw9VJamuGLY/view?usp=drivesdk",
+      "size": "112924"
+    },
+    {
+      "id": "1IfyllNhjsunesQFtmxcgmRuOkq0qynNI",
+      "name": "photo-02.jpg",
+      "mimeType": "image/jpeg",
+      "webViewLink": "https://drive.google.com/file/d/1IfyllNhjsunesQFtmxcgmRuOkq0qynNI/view?usp=drivesdk",
+      "size": "96450"
+    },
+    {
+      "id": "1xuNn4-pwztrtJ4oLVuR294-NDZ5QI0ld",
+      "name": "photo-03.jpg",
+      "mimeType": "image/jpeg",
+      "webViewLink": "https://drive.google.com/file/d/1xuNn4-pwztrtJ4oLVuR294-NDZ5QI0ld/view?usp=drivesdk",
+      "size": "91782"
+    },
+    {
+      "id": "1JEektP3VMydMl52H1D2T_aFbZU36KKod",
+      "name": "photo-04.jpg",
+      "mimeType": "image/jpeg",
+      "webViewLink": "https://drive.google.com/file/d/1JEektP3VMydMl52H1D2T_aFbZU36KKod/view?usp=drivesdk",
+      "size": "115834"
+    },
+    {
+      "id": "1mY0_VUDaT-qqQnQ8AyT3DA41DraA32FI",
+      "name": "photo-05.jpg",
+      "mimeType": "image/jpeg",
+      "webViewLink": "https://drive.google.com/file/d/1mY0_VUDaT-qqQnQ8AyT3DA41DraA32FI/view?usp=drivesdk",
+      "size": "121012"
+    },
+    {
+      "id": "1ca8WFXWoBUTJpp6cmBm94jGG4Vi4Xqlp",
+      "name": "photo-06.jpg",
+      "mimeType": "image/jpeg",
+      "webViewLink": "https://drive.google.com/file/d/1ca8WFXWoBUTJpp6cmBm94jGG4Vi4Xqlp/view?usp=drivesdk",
+      "size": "105468"
+    },
+    {
+      "id": "1NawJQ8B19lWHOzPN0xolZfzkFisQninO",
+      "name": "photo-07.jpg",
+      "mimeType": "image/jpeg",
+      "webViewLink": "https://drive.google.com/file/d/1NawJQ8B19lWHOzPN0xolZfzkFisQninO/view?usp=drivesdk",
+      "size": "68679"
+    },
+    {
+      "id": "15dl0wPmau6DpX4fcN2Vpjk2ms6NtCJnD",
+      "name": "photo-08.jpg",
+      "mimeType": "image/jpeg",
+      "webViewLink": "https://drive.google.com/file/d/15dl0wPmau6DpX4fcN2Vpjk2ms6NtCJnD/view?usp=drivesdk",
+      "size": "106476"
+    },
+    {
+      "id": "1fMe0vXIOK4a6nEpJRijyQyC9KtjVia1C",
+      "name": "stock-manifest.json",
+      "mimeType": "application/json",
+      "webViewLink": "https://drive.google.com/file/d/1fMe0vXIOK4a6nEpJRijyQyC9KtjVia1C/view?usp=drivesdk",
+      "size": "1939"
+    },
+    {
+      "id": "14yFh0OD79cC6SRoNy4S7hrXNBOZ8Cmjs",
+      "name": "contact-sheet.png",
+      "mimeType": "image/png",
+      "webViewLink": "https://drive.google.com/file/d/14yFh0OD79cC6SRoNy4S7hrXNBOZ8Cmjs/view?usp=drivesdk",
+      "size": "2329971"
+    },
+    {
+      "id": "1hp6P4F4gnpfRxg3J3N3Oz4evrBAPyFAT",
+      "name": "contact-sheet.html",
+      "mimeType": "text/html",
+      "webViewLink": "https://drive.google.com/file/d/1hp6P4F4gnpfRxg3J3N3Oz4evrBAPyFAT/view?usp=drivesdk",
+      "size": "1807"
+    },
+    {
+      "id": "13TUkyuk_QFjTn9qV-TXPUIQH24TlB1HN",
+      "name": "slide-01.html",
+      "mimeType": "text/html",
+      "webViewLink": "https://drive.google.com/file/d/13TUkyuk_QFjTn9qV-TXPUIQH24TlB1HN/view?usp=drivesdk",
+      "size": "4360"
+    },
+    {
+      "id": "1pIxJWlxbGEPBKRGqAePsTgvXSwfegcZa",
+      "name": "slide-02.html",
+      "mimeType": "text/html",
+      "webViewLink": "https://drive.google.com/file/d/1pIxJWlxbGEPBKRGqAePsTgvXSwfegcZa/view?usp=drivesdk",
+      "size": "4353"
+    },
+    {
+      "id": "178tCvOcRfeQhXrQeCkE8-Sp5rX_DoGzJ",
+      "name": "slide-03.html",
+      "mimeType": "text/html",
+      "webViewLink": "https://drive.google.com/file/d/178tCvOcRfeQhXrQeCkE8-Sp5rX_DoGzJ/view?usp=drivesdk",
+      "size": "4356"
+    },
+    {
+      "id": "1AEylbDW3ztm-MU1G8C1eivCkbsgnGqMq",
+      "name": "slide-04.html",
+      "mimeType": "text/html",
+      "webViewLink": "https://drive.google.com/file/d/1AEylbDW3ztm-MU1G8C1eivCkbsgnGqMq/view?usp=drivesdk",
+      "size": "4352"
+    },
+    {
+      "id": "1-dJG1P6pzO0LkR_KyKLNCoEvEBvNvqmH",
+      "name": "slide-05.html",
+      "mimeType": "text/html",
+      "webViewLink": "https://drive.google.com/file/d/1-dJG1P6pzO0LkR_KyKLNCoEvEBvNvqmH/view?usp=drivesdk",
+      "size": "4355"
+    },
+    {
+      "id": "1hP4t7AYCDj29h6M-UU-AcOo8K-naGUm-",
+      "name": "slide-06.html",
+      "mimeType": "text/html",
+      "webViewLink": "https://drive.google.com/file/d/1hP4t7AYCDj29h6M-UU-AcOo8K-naGUm-/view?usp=drivesdk",
+      "size": "4356"
+    },
+    {
+      "id": "1vG0Wk6ZvCDtvFk4qM2rBQ6rzLJ9Zx70V",
+      "name": "slide-07.html",
+      "mimeType": "text/html",
+      "webViewLink": "https://drive.google.com/file/d/1vG0Wk6ZvCDtvFk4qM2rBQ6rzLJ9Zx70V/view?usp=drivesdk",
+      "size": "4360"
+    },
+    {
+      "id": "1_EpcLL14P3L6cR-aEGLJpeWfUO_a-ziJ",
+      "name": "slide-08.html",
+      "mimeType": "text/html",
+      "webViewLink": "https://drive.google.com/file/d/1_EpcLL14P3L6cR-aEGLJpeWfUO_a-ziJ/view?usp=drivesdk",
+      "size": "4391"
+    },
+    {
+      "id": "1ZSfEtTOayMAZHsPmE49MH82MffJv4nxH",
+      "name": "slide-01.png",
+      "mimeType": "image/png",
+      "webViewLink": "https://drive.google.com/file/d/1ZSfEtTOayMAZHsPmE49MH82MffJv4nxH/view?usp=drivesdk",
+      "size": "1086766"
+    },
+    {
+      "id": "1kz7Onv_xdpVFq81QvO7IXWSmZ8lo_4K7",
+      "name": "slide-02.png",
+      "mimeType": "image/png",
+      "webViewLink": "https://drive.google.com/file/d/1kz7Onv_xdpVFq81QvO7IXWSmZ8lo_4K7/view?usp=drivesdk",
+      "size": "1048150"
+    },
+    {
+      "id": "1EKd1ezSW7BTc6CrUye5AS8uVLVKJ5EWq",
+      "name": "slide-03.png",
+      "mimeType": "image/png",
+      "webViewLink": "https://drive.google.com/file/d/1EKd1ezSW7BTc6CrUye5AS8uVLVKJ5EWq/view?usp=drivesdk",
+      "size": "1009742"
+    },
+    {
+      "id": "1HiZKzW6WdI7Pz8Bh-Gndfv3eJldH_uSY",
+      "name": "slide-04.png",
+      "mimeType": "image/png",
+      "webViewLink": "https://drive.google.com/file/d/1HiZKzW6WdI7Pz8Bh-Gndfv3eJldH_uSY/view?usp=drivesdk",
+      "size": "1105744"
+    },
+    {
+      "id": "1OqKwTZZfZuvhhF-9bN64Un0pTn7UEP8a",
+      "name": "slide-05.png",
+      "mimeType": "image/png",
+      "webViewLink": "https://drive.google.com/file/d/1OqKwTZZfZuvhhF-9bN64Un0pTn7UEP8a/view?usp=drivesdk",
+      "size": "1046777"
+    },
+    {
+      "id": "1FxyO_HdCzJDbVUTrxvxg_yE1-7lByU1_",
+      "name": "slide-06.png",
+      "mimeType": "image/png",
+      "webViewLink": "https://drive.google.com/file/d/1FxyO_HdCzJDbVUTrxvxg_yE1-7lByU1_/view?usp=drivesdk",
+      "size": "1077779"
+    },
+    {
+      "id": "16WPEwWPg-SRrItUZmnMWx-ndKFpQJuHZ",
+      "name": "slide-07.png",
+      "mimeType": "image/png",
+      "webViewLink": "https://drive.google.com/file/d/16WPEwWPg-SRrItUZmnMWx-ndKFpQJuHZ/view?usp=drivesdk",
+      "size": "946365"
+    },
+    {
+      "id": "1rMAml3o28IDNTurSvaZaXwu4cXBxxq3L",
+      "name": "slide-08.png",
+      "mimeType": "image/png",
+      "webViewLink": "https://drive.google.com/file/d/1rMAml3o28IDNTurSvaZaXwu4cXBxxq3L/view?usp=drivesdk",
+      "size": "1072067"
+    },
+    {
+      "id": "1Ab3pSFIfLOrSCF49kiFc8LiCV_6GFPf7",
+      "name": "instagram-feed-draft.md",
+      "mimeType": "text/markdown",
+      "webViewLink": "https://drive.google.com/file/d/1Ab3pSFIfLOrSCF49kiFc8LiCV_6GFPf7/view?usp=drivesdk",
+      "size": "1345"
+    },
+    {
+      "id": "1iTMhlfRDWTeTK3yZ0wyQiy6qetzGcZu8",
+      "name": "publication-status.md",
+      "mimeType": "text/markdown",
+      "webViewLink": "https://drive.google.com/file/d/1iTMhlfRDWTeTK3yZ0wyQiy6qetzGcZu8/view?usp=drivesdk",
+      "size": "356"
+    },
+    {
+      "id": "1016dBq6FdUZ-_PO8WQHFKUFhDVp1SHS9",
+      "name": "rafael-reel-evaluation.md",
+      "mimeType": "text/markdown",
+      "webViewLink": "https://drive.google.com/file/d/1016dBq6FdUZ-_PO8WQHFKUFhDVp1SHS9/view?usp=drivesdk",
+      "size": "359"
+    },
+    {
+      "id": "18kLX_BZT9dBY9q4N2vSqAm1vNi17p8eo",
+      "name": "ready-to-post.json",
+      "mimeType": "application/json",
+      "webViewLink": "https://drive.google.com/file/d/18kLX_BZT9dBY9q4N2vSqAm1vNi17p8eo/view?usp=drivesdk",
+      "size": "1030"
+    },
+    {
+      "id": "1ur3Od4UV1zN3t-XryQsi27NNEz_nAC11",
+      "name": "render_simple_carousel.py",
+      "mimeType": "text/x-python",
+      "webViewLink": "https://drive.google.com/file/d/1ur3Od4UV1zN3t-XryQsi27NNEz_nAC11/view?usp=drivesdk",
+      "size": "10420"
+    },
+    {
+      "id": "1jAy3ps9QzCAyCWwAI2xDqFRpRvF8_L5r",
+      "name": "research-briefing.md",
+      "mimeType": "text/markdown",
+      "webViewLink": "https://drive.google.com/file/d/1jAy3ps9QzCAyCWwAI2xDqFRpRvF8_L5r/view?usp=drivesdk",
+      "size": "903"
+    },
+    {
+      "id": "1sH4w3CAH2dE7XVns72P7kdyoomeflbge",
+      "name": "review-report.md",
+      "mimeType": "text/markdown",
+      "webViewLink": "https://drive.google.com/file/d/1sH4w3CAH2dE7XVns72P7kdyoomeflbge/view?usp=drivesdk",
+      "size": "1309"
+    },
+    {
+      "id": "1PgL4s9HwhrNMQZP88SiDFhcOW959rQdC",
+      "name": "stories-sequence.md",
+      "mimeType": "text/markdown",
+      "webViewLink": "https://drive.google.com/file/d/1PgL4s9HwhrNMQZP88SiDFhcOW959rQdC/view?usp=drivesdk",
+      "size": "467"
+    },
+    {
+      "id": "17OJ1QyrTNC11YTIoAL1UbrFl558-_-dj",
+      "name": "visual-direction.md",
+      "mimeType": "text/markdown",
+      "webViewLink": "https://drive.google.com/file/d/17OJ1QyrTNC11YTIoAL1UbrFl558-_-dj/view?usp=drivesdk",
+      "size": "749"
+    }
+  ]
+}
