@@ -1,0 +1,74 @@
+{
+  "published": false,
+  "needs_user_approval": true,
+  "slides": 8,
+  "images": [
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia/images/slide-01.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia/images/slide-02.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia/images/slide-03.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia/images/slide-04.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia/images/slide-05.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia/images/slide-06.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia/images/slide-07.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia/images/slide-08.png"
+  ],
+  "contact_sheet": "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia/contact-sheet.png",
+  "sources": [
+    {
+      "slide": 1,
+      "file": "assets/web/spain-ap-final.jpg",
+      "source": "AP News / Julio Cortez",
+      "url": "https://apnews.com/article/argentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617",
+      "note": "foto da seleção espanhola na final"
+    },
+    {
+      "slide": 2,
+      "file": "assets/web/fifa-ai-pro.jpg",
+      "source": "FIFA / Lenovo Tech World 2026",
+      "url": "https://inside.fifa.com/media-releases/lenovo-tech-world-ai-powered-innovations-world-cup-2026",
+      "note": "imagem oficial do anúncio tecnológico"
+    },
+    {
+      "file": "assets/stock/slide-03.jpg",
+      "source": "Pexels / Mikael Blomkvist",
+      "url": "https://www.pexels.com/photo/a-person-using-a-laptop-6476270/",
+      "query": "person using artificial intelligence software laptop decision data",
+      "slide": 3
+    },
+    {
+      "file": "assets/stock/slide-04.jpg",
+      "source": "Pexels / Franco Monsalvo",
+      "url": "https://www.pexels.com/photo/soccer-coaches-discussing-strategy-outdoors-32101180/",
+      "query": "football coach tactics board team strategy analysis",
+      "slide": 4
+    },
+    {
+      "file": "assets/stock/slide-05.jpg",
+      "source": "Pexels / Matheus Bertelli",
+      "url": "https://www.pexels.com/photo/man-using-chatgpt-16094046/",
+      "query": "business owner using ai chatbot laptop office",
+      "slide": 5
+    },
+    {
+      "file": "assets/stock/slide-06.jpg",
+      "source": "Pexels / Thirdman",
+      "url": "https://www.pexels.com/photo/people-working-with-graphs-in-office-7653571/",
+      "query": "workflow process management dashboard business laptop",
+      "slide": 6
+    },
+    {
+      "file": "assets/stock/slide-07.jpg",
+      "source": "Pexels / Vlada Karpovich",
+      "url": "https://www.pexels.com/photo/gray-haired-man-signing-the-papers-7433919/",
+      "query": "team execution strategy planning meeting business",
+      "slide": 7
+    },
+    {
+      "file": "assets/stock/slide-08.jpg",
+      "source": "Pexels / Alena Darmel",
+      "url": "https://www.pexels.com/photo/a-man-and-a-woman-sitting-at-the-table-with-a-consultant-7642130/",
+      "query": "business consultant automation system laptop client meeting",
+      "slide": 8
+    }
+  ]
+}
