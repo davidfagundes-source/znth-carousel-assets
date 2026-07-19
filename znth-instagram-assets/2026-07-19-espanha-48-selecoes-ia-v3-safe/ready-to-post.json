@@ -1,5 +1,5 @@
 {
-  "published": false,
+  "published": true,
   "needs_user_approval": true,
   "deleted_previous_publication": true,
   "slides": 8,
@@ -57,5 +57,95 @@
       "source": "Pexels / Alena Darmel",
       "file": "assets/stock/slide-08.jpg"
     }
-  ]
+  ],
+  "publication_status": "published",
+  "instagram_media_id": "17982866220018903",
+  "instagram_permalink": "https://www.instagram.com/p/Da_gtHmll_p/",
+  "instagram_creation_id": "17976652371071341",
+  "instagram_child_container_ids": [
+    "17976652233071341",
+    "17976652248071341",
+    "17976652260071341",
+    "17976652275071341",
+    "17976652287071341",
+    "17976652305071341",
+    "17976652320071341",
+    "17976652353071341"
+  ],
+  "github_repo": "davidfagundes-source/znth-carousel-assets",
+  "github_prefix": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe",
+  "github_public_base": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe",
+  "github_uploads": [
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-01.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-01.png",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-01.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-02.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-02.png",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-02.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-03.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-03.png",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-03.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-04.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-04.png",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-04.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-05.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-05.png",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-05.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-06.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-06.png",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-06.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-07.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-07.png",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-07.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-08.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-08.png",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-08.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/contact-sheet.png",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/contact-sheet.png",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/contact-sheet.png"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/caption.txt",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/caption.txt",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/caption.txt"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/ready-to-post.json",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/ready-to-post.json",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/ready-to-post.json"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/review-report.md",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/review-report.md",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/review-report.md"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/instagram-feed-draft.md",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/instagram-feed-draft.md",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/instagram-feed-draft.md"
+    },
+    {
+      "path": "znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/visual-direction.md",
+      "download_url": "https://raw.githubusercontent.com/davidfagundes-source/znth-carousel-assets/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/visual-direction.md",
+      "html_url": "https://github.com/davidfagundes-source/znth-carousel-assets/blob/main/znth-instagram-assets/2026-07-19-espanha-48-selecoes-ia-v3-safe/visual-direction.md"
+    }
+  ],
+  "published_at_epoch": 1784502545
 }
