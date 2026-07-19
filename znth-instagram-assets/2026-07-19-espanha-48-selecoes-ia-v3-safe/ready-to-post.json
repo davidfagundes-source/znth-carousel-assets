@@ -1,0 +1,61 @@
+{
+  "published": false,
+  "needs_user_approval": true,
+  "deleted_previous_publication": true,
+  "slides": 8,
+  "images": [
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-01.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-02.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-03.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-04.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-05.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-06.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-07.png",
+    "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia-v3-safe/images/slide-08.png"
+  ],
+  "contact_sheet": "/opt/data/znth-instagram-squad/output/2026-07-19-espanha-48-selecoes-ia-v3-safe/contact-sheet.png",
+  "sources": [
+    {
+      "slide": 1,
+      "source": "AP News / Julio Cortez",
+      "file": "assets/web/spain-ap-final.jpg",
+      "url": "https://apnews.com/article/argentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617"
+    },
+    {
+      "slide": 2,
+      "source": "FIFA / Lenovo",
+      "file": "assets/web/fifa-ai-pro.jpg",
+      "url": "https://inside.fifa.com/media-releases/lenovo-tech-world-ai-powered-innovations-world-cup-2026"
+    },
+    {
+      "slide": 3,
+      "source": "Pexels / Mikael Blomkvist",
+      "file": "assets/stock/slide-03.jpg"
+    },
+    {
+      "slide": 4,
+      "source": "Pexels / Franco Monsalvo",
+      "file": "assets/stock/slide-04.jpg"
+    },
+    {
+      "slide": 5,
+      "source": "Pexels / Matheus Bertelli",
+      "file": "assets/stock/slide-05.jpg"
+    },
+    {
+      "slide": 6,
+      "source": "Pexels / Thirdman",
+      "file": "assets/stock/slide-06.jpg"
+    },
+    {
+      "slide": 7,
+      "source": "Pexels / Vlada Karpovich",
+      "file": "assets/stock/slide-07.jpg"
+    },
+    {
+      "slide": 8,
+      "source": "Pexels / Alena Darmel",
+      "file": "assets/stock/slide-08.jpg"
+    }
+  ]
+}
